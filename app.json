@@ -1,6 +1,6 @@
 {
 
-    "name": "Save restricted content bot by @dev_gagan",
+    "name": "Save restricted content bot by @STINER_KING_OP",
     "description": "Telegram bot to save restricted content.",
     "logo": "",
     "keywords": [
@@ -10,15 +10,15 @@
     ],
     "repository": "https://github.com/devgaganin/save_restricted-content-telegram-bot-repo",
     "website": "",
-    "success_url": "https://t.me/dev_gagan",
+    "success_url": "https://t.me/+PPaKZfEYb-k5OGRl",
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "28372387"
+            "value": "11edc85521fb2d8f75e751bb284507e1"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "11edc85521fb2d8f75e751bb284507e1"
+            "value": "28372387"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
